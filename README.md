@@ -1,2 +1,3 @@
-# This repository contains the solution and progress report for courses edx and coursera
-#
+This repository contains the solution and progress report for data science on edx 
+
+
